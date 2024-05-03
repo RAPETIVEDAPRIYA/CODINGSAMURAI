@@ -1,5 +1,5 @@
 # CODINGSAMURAI
-# ToDoList App Readme
+# ToDoList App
 
 ## Introduction:
 ToDoList is a simple Android app created using XML and Java for managing lists of items. It provides users with the ability to create, read, update, and delete items in a list, offering a convenient way to organize information on their mobile devices.
